@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jdmin.iml" filepath="$PROJECT_DIR$/jdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdmin-common/jdmin-common.iml" filepath="$PROJECT_DIR$/jdmin-common/jdmin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdmin-generator/jdmin-generator.iml" filepath="$PROJECT_DIR$/jdmin-generator/jdmin-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdmin-logging/jdmin-logging.iml" filepath="$PROJECT_DIR$/jdmin-logging/jdmin-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdmin-monitor/jdmin-monitor.iml" filepath="$PROJECT_DIR$/jdmin-monitor/jdmin-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdmin-quartz/jdmin-quartz.iml" filepath="$PROJECT_DIR$/jdmin-quartz/jdmin-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdmin-security/jdmin-security.iml" filepath="$PROJECT_DIR$/jdmin-security/jdmin-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdmin-system/jdmin-system.iml" filepath="$PROJECT_DIR$/jdmin-system/jdmin-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdmin-utils/jdmin-utils.iml" filepath="$PROJECT_DIR$/jdmin-utils/jdmin-utils.iml" />
+    </modules>
+  </component>
+</project>

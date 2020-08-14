@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jdmin-logging" />
+        <module name="jdmin-generator" />
+        <module name="jdmin-utils" />
+        <module name="jdmin-common" />
+        <module name="jdmin-security" />
+        <module name="jdmin-quartz" />
+        <module name="jdmin-monitor" />
+        <module name="jdmin-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jdmin" target="1.8" />
+      <module name="jdmin-common" target="1.8" />
+      <module name="jdmin-generator" target="1.8" />
+      <module name="jdmin-logging" target="1.8" />
+      <module name="jdmin-monitor" target="1.8" />
+      <module name="jdmin-quartz" target="1.8" />
+      <module name="jdmin-security" target="1.8" />
+      <module name="jdmin-system" target="1.8" />
+      <module name="jdmin-utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jdmin-common" options="-parameters" />
+      <module name="jdmin-generator" options="-parameters" />
+      <module name="jdmin-logging" options="-parameters" />
+      <module name="jdmin-monitor" options="-parameters" />
+      <module name="jdmin-quartz" options="-parameters" />
+      <module name="jdmin-security" options="-parameters" />
+      <module name="jdmin-system" options="-parameters" />
+      <module name="jdmin-utils" options="-parameters" />
+    </option>
+  </component>
+</project>

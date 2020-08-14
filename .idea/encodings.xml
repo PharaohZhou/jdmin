@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdmin-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdmin-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdmin-logging" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdmin-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdmin-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdmin-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdmin-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdmin-utils" charset="UTF-8" />
+  </component>
+</project>
